@@ -1,2 +1,2 @@
 # Pacman
-# Project scriipt files to create a Pacman game in Unity
+This repository includes script files to create a Pacman game in Unity
